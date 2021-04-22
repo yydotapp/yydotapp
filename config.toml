@@ -1,4 +1,6 @@
-baseURL = "http://yy.app/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://yy.app/"
+languageCode = "zh-cn"
+title = "YY.app"
 theme = "ananke"
+disqusShortname = "yyapp"
+

@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-yy is short for
+YY 简称
 
 - 影院
 - YY
@@ -13,6 +13,4 @@ yy is short for
 - 应用
 - 养颜
 
-this domain is for sale
-
-yyappbiz at gmail.com
+域名出售，联系 yyappbiz at gmail.com
