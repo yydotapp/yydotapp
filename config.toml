@@ -1,6 +1,6 @@
 baseURL = "https://yy.app/"
 languageCode = "zh-cn"
 title = "YY.app"
-theme = "ananke"
+theme = "diary"
 disqusShortname = "yyapp"
 googleAnalytics = "G-SZW9E2YHK9"
